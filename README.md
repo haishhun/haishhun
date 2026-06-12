@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/pixel-contributions/output/pixel-contributions.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/pixel-contributions/output/pixel-contributions.svg" />
-  <img alt="Pixel Contributions" src="https://raw.githubusercontent.com/haishhun/pixel-contributions/output/pixel-contributions.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/haishhun/output/pixel-contributions.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/haishhun/output/pixel-contributions.svg" />
+  <img alt="Pixel Contributions" src="https://raw.githubusercontent.com/haishhun/haishhun/output/pixel-contributions.svg" />
 </picture>
