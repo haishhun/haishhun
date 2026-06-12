@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: haishhun
           token: ${{ secrets.GITHUB_TOKEN }}
-          compress: true   
+          compress: true
           output_path: |
             dist/pixel-contributions.svg
           color_scheme: github-dark
@@ -27,5 +27,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
