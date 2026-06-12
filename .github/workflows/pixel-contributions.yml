@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Generate pixel contribution SVGs
-        uses: haishhun/pixel-contributions@v1.5
+        uses: haishhun/pixel-contributions@v1.6
         with:
           github_user_name: haishhun
           token: ${{ secrets.GITHUB_TOKEN }}
