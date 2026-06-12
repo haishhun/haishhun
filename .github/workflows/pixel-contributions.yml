@@ -20,6 +20,7 @@ jobs:
           compress: true
           output_path: |
             dist/pixel-contributions.svg
+            dist/pixel-contributions-light.svg?color_scheme=nord
           color_scheme: github-dark
 
       - name: Push to output branch
