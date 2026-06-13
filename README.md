@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img width="1672" height="941" alt="readme_picture" src="https://github.com/user-attachments/assets/32d5e7aa-7ef1-4e60-97a7-e023d55d497b" />
+</p>
 <!--
 **haishhun/haishhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
