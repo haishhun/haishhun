@@ -8,9 +8,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/29953525-4447-4224-bee6-d96dfcf826da" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d24d2eaf-ccd2-4b48-a66f-e664bf7d6507" />
-    <img alt="Tech Stack" src="https://github.com/user-attachments/assets/29953525-4447-4224-bee6-d96dfcf826da" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c4fbbbfa-0151-46d4-a7af-2ce8b9dd7d28" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d1c5710d-bff3-4906-bb39-e10907d7e13a" />
+    <img alt="Tech Stack" src="https://github.com/user-attachments/assets/c4fbbbfa-0151-46d4-a7af-2ce8b9dd7d28" />
   </picture>
 </p>
 
