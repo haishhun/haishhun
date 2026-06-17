@@ -3,7 +3,7 @@
   <img width="1672" height="941" alt="readme_picture" src="https://github.com/user-attachments/assets/32d5e7aa-7ef1-4e60-97a7-e023d55d497b" />
 </p>
 
-<p align="center">──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ────</p>
+<p align="center">⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆</p>
 
 <p align="center">
   <picture>
