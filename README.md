@@ -49,8 +49,8 @@
 </picture>
 
 <p align="left">
-  <a href="https://gh-stats.com"><img src="https://gh-stats.com/api/haishhun?theme=onyx&widgets=grade&languages.max_languages=8" /></a>
+  <a href="https://gh-stats.com"><img src="https://gh-stats.com/api/haishhun?theme=onyx&widgets=grade&languages.max_languages=8" width="49%"/></a>
 </p>
 <p align="right">
-  <a href="https://gh-stats.com"><img src="https://gh-stats.com/api/haishhun?theme=onyx&widgets=streaks&languages.max_languages=8" /></a>
+  <a href="https://gh-stats.com"><img src="https://gh-stats.com/api/haishhun?theme=onyx&widgets=streaks&languages.max_languages=8" width="49%"/></a>
 </p>
