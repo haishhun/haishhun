@@ -50,7 +50,7 @@
 
 <table>
 <tr>
-<td><img src="https://streak-stats.demolab.com/?user=haishhun&theme=dark" /></td>
-<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haishhun&theme=github_dark" /></td>
+<td><img src="[![haishhun](https://gh-stats.com/api/haishhun?theme=onyx&widgets=grade&languages.max_languages=8)](https://gh-stats.com)" /></td>
+<td><img src="[![haishhun](https://gh-stats.com/api/haishhun?theme=onyx&widgets=streaks&languages.max_languages=8)](https://gh-stats.com" /></td>
 </tr>
 </table>
