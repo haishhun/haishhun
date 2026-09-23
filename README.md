@@ -48,9 +48,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/haishhun/haishhun/output/github-snake.svg" />
 </picture>
 
-<table>
-<tr>
-<td><img src="[![haishhun](https://gh-stats.com/api/haishhun?theme=onyx&widgets=grade&languages.max_languages=8)](https://gh-stats.com)" /></td>
-<td><img src="[![haishhun](https://gh-stats.com/api/haishhun?theme=onyx&widgets=streaks&languages.max_languages=8)](https://gh-stats.com" /></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://gh-stats.com"><img src="https://gh-stats.com/api/haishhun?theme=onyx&widgets=grade&languages.max_languages=8" /></a>
+</p>
+<p align="center">
+  <a href="https://gh-stats.com"><img src="https://gh-stats.com/api/haishhun?theme=onyx&widgets=streaks&languages.max_languages=8" /></a>
+</p>
