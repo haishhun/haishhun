@@ -47,3 +47,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/haishhun/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/haishhun/haishhun/output/github-snake.svg" />
 </picture>
+
+<table>
+<tr>
+<td><img src="https://streak-stats.demolab.com/?user=haishhun&theme=dark" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haishhun&theme=dark" /></td>
+</tr>
+</table>
