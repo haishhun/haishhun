@@ -51,6 +51,6 @@
 <table>
 <tr>
 <td><img src="https://streak-stats.demolab.com/?user=haishhun&theme=dark" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haishhun&theme=dark" /></td>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haishhun&theme=github_dark" /></td>
 </tr>
 </table>
