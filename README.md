@@ -49,6 +49,11 @@
 </picture>
 
 <p align="center">
-  <a href="https://gh-stats.com"><img src="https://gh-stats.com/api/haishhun?theme=onyx&widgets=grade&languages.max_languages=8" width="49%" /></a>
-  <a href="https://gh-stats.com"><img src="https://gh-stats.com/api/haishhun?theme=onyx&widgets=streaks&languages.max_languages=8" width="49%" /></a>
+  <img src="https://raw.githubusercontent.com/haishhun/profile-cards/main/assets/profile-dark.svg#gh-dark-mode-only" alt="Developer Profile" />
+  <img src="https://raw.githubusercontent.com/haishhun/profile-cards/main/assets/profile-light.svg#gh-light-mode-only" alt="Developer Profile" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/haishhun/profile-cards/main/assets/streak-dark.svg#gh-dark-mode-only" alt="GitHub Streaks" />
+  <img src="https://raw.githubusercontent.com/haishhun/profile-cards/main/assets/streak-light.svg#gh-light-mode-only" alt="GitHub Streaks" />
 </p>
