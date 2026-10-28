@@ -50,12 +50,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/haishhun/main/assets/profile-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/haishhun/main/assets/profile-light.svg" />
-    <img src="https://raw.githubusercontent.com/haishhun/haishhun/main/assets/profile-dark.svg" width="49%" alt="Developer Profile" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/profile-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/profile-light.svg" />
+    <img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/profile-dark.svg" width="49%" alt="Developer Profile" />
   </picture><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/haishhun/main/assets/streak-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/haishhun/main/assets/streak-light.svg" />
-    <img src="https://raw.githubusercontent.com/haishhun/haishhun/main/assets/streak-dark.svg" width="49%" alt="GitHub Streaks" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/streak-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/streak-light.svg" />
+    <img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/streak-dark.svg" width="49%" alt="GitHub Streaks" />
   </picture>
 </p>
