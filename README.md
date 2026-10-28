@@ -49,11 +49,13 @@
 </picture>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haishhun/profile-cards/main/assets/profile-dark.svg#gh-dark-mode-only" alt="Developer Profile" />
-  <img src="https://raw.githubusercontent.com/haishhun/profile-cards/main/assets/profile-light.svg#gh-light-mode-only" alt="Developer Profile" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/haishhun/profile-cards/main/assets/streak-dark.svg#gh-dark-mode-only" alt="GitHub Streaks" />
-  <img src="https://raw.githubusercontent.com/haishhun/profile-cards/main/assets/streak-light.svg#gh-light-mode-only" alt="GitHub Streaks" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/haishhun/main/assets/profile-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/haishhun/main/assets/profile-light.svg" />
+    <img src="https://raw.githubusercontent.com/haishhun/haishhun/main/assets/profile-dark.svg" width="49%" alt="Developer Profile" />
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/haishhun/main/assets/streak-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/haishhun/main/assets/streak-light.svg" />
+    <img src="https://raw.githubusercontent.com/haishhun/haishhun/main/assets/streak-dark.svg" width="49%" alt="GitHub Streaks" />
+  </picture>
 </p>
