@@ -1,7 +1,18 @@
-
-<p align="center">
-  <img width="1672" height="941" alt="readme_picture" src="https://github.com/user-attachments/assets/32d5e7aa-7ef1-4e60-97a7-e023d55d497b" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/user-attachments/assets/32d5e7aa-7ef1-4e60-97a7-e023d55d497b"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/user-attachments/assets/f02f1378-1ad0-4c5d-916a-8834a7099cdc"
+  />
+  <img
+    width="1672"
+    alt="Pixel room"
+    src="https://github.com/user-attachments/assets/32d5e7aa-7ef1-4e60-97a7-e023d55d497b"
+  />
+</picture>
 
 <p align="center">⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆</p>
 
