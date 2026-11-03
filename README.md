@@ -68,7 +68,7 @@
   </picture>
 </p>
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/connect-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/connect-light.svg" /><img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/connect-dark.svg" width="100%" alt="Let's Connect" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/connect-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/connect-light.svg" /><img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/connect-dark.svg" width="98%" alt="Let's Connect" /></picture>
 </p>
 <p align="center">
   <a href="https://github.com/haishhun"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/github-light.svg" /><img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/github-dark.svg" height="47" alt="GitHub" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
