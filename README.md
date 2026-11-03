@@ -67,3 +67,8 @@
     <img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/streak-dark.svg" width="49%" alt="GitHub Streaks" />
   </picture>
 </p>
+<p align="center">
+  <a href="https://github.com/haishhun"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/github-light.svg" /><img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/github-dark.svg" height="47" alt="GitHub" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dzmitry-haishun/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/linkedin-light.svg" /><img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/linkedin-dark.svg" height="47" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:dzhaishun@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/email-light.svg" /><img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/email-dark.svg" height="47" alt="Email" /></picture></a>
+</p>
