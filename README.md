@@ -61,7 +61,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/><br/>FastAPI
     </td>
     <td width="10%" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django"/><br/>Django
+      <img src="https://cdn.simpleicons.org/django/44B78B"
+     width="48" height="48" alt="Django"/><br/>Django
     </td>
     <td width="10%" align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/><br/>PostgreSQL
@@ -70,13 +71,17 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br/>Docker
     </td>
     <td width="10%" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS"/><br/>AWS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+     width="48"
+     height="48"
+     alt="AWS"/><br/>AWS
     </td>
     <td width="10%" align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis"/><br/>Redis
     </td>
     <td width="10%" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="Kafka"/><br/>Kafka
+      <img src="https://cdn.simpleicons.org/apachekafka/FFFFFF"
+     width="48" height="48" alt="Kafka"/><br/>Kafka
     </td>
     <td width="10%" align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ"/><br/>RabbitMQ
