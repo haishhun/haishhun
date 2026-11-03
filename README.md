@@ -1,4 +1,3 @@
-
 <!-- ==================== HERO ==================== -->
 
 <picture>
@@ -16,6 +15,27 @@
     src="https://github.com/user-attachments/assets/32d5e7aa-7ef1-4e60-97a7-e023d55d497b"
   />
 </picture>
+
+<hr/>
+<!-- ==================== INTRO ==================== -->
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/intro-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/intro-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/intro-dark.svg"
+      width="98%"
+      alt="Hi, I'm Dzmitry Haishun"
+    />
+  </picture>
+</p>
 
 <hr/>
 
