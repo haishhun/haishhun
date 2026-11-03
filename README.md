@@ -13,15 +13,12 @@
     src="https://github.com/user-attachments/assets/32d5e7aa-7ef1-4e60-97a7-e023d55d497b"
   />
 </picture>
-
-<p align="center">⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆</p>
-
-
+<hr/>
 <h2>
   <img src="assets/icons/code.svg"
-       width="30"
-       height="30"
-       align="center"
+       width="40"
+       height="40"
+       align="absmiddle"
        alt="Code"/>
   &nbsp;TechStack
 </h2>
