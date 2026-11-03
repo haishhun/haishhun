@@ -49,7 +49,7 @@
     align="center"
     alt=""
   />
-  &nbsp;TechStack
+  &nbsp;Tech Stack
 </h2>
 
 <table width="98%" align="center">
