@@ -146,6 +146,7 @@
   </picture>
 </p>
 
+<hr/>
 <!-- ==================== PROFILE & STREAK ==================== -->
 
 <p align="center">
