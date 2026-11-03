@@ -44,10 +44,10 @@
 <h2>
   <img
     src="assets/icons/code.svg"
-    width="36"
-    height="36"
+    width="42"
+    height="42"
     align="center"
-    alt="Code"
+    alt=""
   />
   &nbsp;TechStack
 </h2>
