@@ -20,21 +20,23 @@
 <!-- ==================== INTRO ==================== -->
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/intro-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/intro-light.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/intro-dark.svg"
-      width="98%"
-      alt="Hi, I'm Dzmitry Haishun"
-    />
-  </picture>
+  <a href="https://www.linkedin.com/in/dzmitry-haishun/">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/intro-dark.svg"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/intro-light.svg"
+        />
+        <img
+          src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/intro-dark.svg"
+          width="98%"
+          alt="Hi, I'm Dzmitry Haishun"
+        />
+      </picture>
+  </a>
 </p>
 
 <hr/>
