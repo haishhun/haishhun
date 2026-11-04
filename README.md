@@ -41,16 +41,23 @@
 
 <!-- ==================== TECH STACK ==================== -->
 
-<h2>
-  <img
-    src="assets/icons/code.svg"
-    width="42"
-    height="42"
-    align="center"
-    alt=""
-  />
-  &nbsp;Tech Stack
-</h2>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/techstack-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/techstack-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/techstack-dark.svg"
+      width="98%"
+      alt="TechStack"
+    />
+  </picture>
+</p>
 
 <table width="98%" align="center">
   <tr>
