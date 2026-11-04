@@ -3,16 +3,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/user-attachments/assets/a5fbe818-9810-4302-aafc-103434b068f9"
+    srcset="https://raw.githubusercontent.com/haishhun/profile-cards/main/assets/hero/hero-dark.png"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/user-attachments/assets/f02f1378-1ad0-4c5d-916a-8834a7099cdc"
+    srcset="https://raw.githubusercontent.com/haishhun/profile-cards/main/assets/hero/hero-light.png"
   />
   <img
     width="1672"
     alt="Pixel art developer workspace"
-    src="https://github.com/user-attachments/assets/32d5e7aa-7ef1-4e60-97a7-e023d55d497b"
+    src="https://raw.githubusercontent.com/haishhun/profile-cards/main/assets/hero/hero-fallback.png"
   />
 </picture>
 
