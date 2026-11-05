@@ -135,6 +135,17 @@
 
 <hr/>
 
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/featured-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/featured-light.svg" /><img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/featured-dark.svg" width="98%" alt="Featured Projects" /></picture>
+</p>
+<p align="center">
+  <a href="https://github.com/haishhun/project-management-platform"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/project-project-management-platform-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/project-project-management-platform-light.svg" /><img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/project-project-management-platform-dark.svg" width="49%" alt="project-management-platform" /></picture></a>
+  <a href="https://github.com/haishhun/fastapi-degree-planner"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/project-fastapi-degree-planner-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/project-fastapi-degree-planner-light.svg" /><img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/project-fastapi-degree-planner-dark.svg" width="49%" alt="fastapi-degree-planner" /></picture></a>
+</p>
+
+<hr/>
 <!-- ==================== GITHUB SNAKE ==================== -->
 
 <p align="center">
