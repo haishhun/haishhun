@@ -16,8 +16,25 @@
   />
 </picture>
 
-<hr/>
 <!-- ==================== INTRO ==================== -->
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/about-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/about-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/about-dark.svg"
+      width="98%"
+      alt="About me"
+    />
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dzmitry-haishun/">
@@ -38,8 +55,6 @@
       </picture>
   </a>
 </p>
-
-<hr/>
 
 <!-- ==================== TECH STACK ==================== -->
 
@@ -133,8 +148,6 @@
   </tr>
 </table>
 
-<hr/>
-
 <!-- ==================== FEATURED PROJECTS ==================== -->
 
 <p align="center">
@@ -145,8 +158,25 @@
   <a href="https://github.com/haishhun/fastapi-degree-planner"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/project-fastapi-degree-planner-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/project-fastapi-degree-planner-light.svg" /><img src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/project-fastapi-degree-planner-dark.svg" width="49%" alt="fastapi-degree-planner" /></picture></a>
 </p>
 
-<hr/>
 <!-- ==================== GITHUB SNAKE ==================== -->
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/contributions-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/contributions-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/contributions-dark.svg"
+      width="98%"
+      alt="Contributions"
+    />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -166,8 +196,25 @@
   </picture>
 </p>
 
-<hr/>
 <!-- ==================== PROFILE & STREAK ==================== -->
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/stats-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/stats-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/haishhun/profile-cards/refs/heads/main/assets/stats-dark.svg"
+      width="98%"
+      alt="Stats"
+    />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
